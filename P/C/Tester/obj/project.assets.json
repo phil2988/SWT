@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\Projekter\\Calculator\\Tester\\Tester.csproj",
+      "projectUniqueName": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\P\\C\\Tester\\Tester.csproj",
       "projectName": "Tester",
-      "projectPath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\Projekter\\Calculator\\Tester\\Tester.csproj",
+      "projectPath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\P\\C\\Tester\\Tester.csproj",
       "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\Projekter\\Calculator\\Tester\\obj\\",
+      "outputPath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\P\\C\\Tester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\Projekter\\Calculator\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\Projekter\\Calculator\\Calculator\\Calculator.csproj"
+            "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\P\\C\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\P\\C\\Calculator\\Calculator.csproj"
             }
           }
         }

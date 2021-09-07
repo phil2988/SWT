@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ct1YkFzleXoyD4HJIXKeY84PG+zEO/5GAZXiuwoBBNCBGwCChDFk780fwIaDC2I8cP1Zrv53lNbedmNReEO/vA==",
+  "dgSpecHash": "3y9GVM3qZ3xKOWViqdCysLWDACHAwzPahUdV6WgZIcmYCO4IfkmF0Uc4HtKXJehcjwwbt02rM0PDnjeVX7lNsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\Projekter\\Calculator\\Calculator.UnitTests\\Calculator.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\phill\\Desktop\\Skole - 4. semester\\SWT\\P\\C\\Calculator.UnitTests\\Calculator.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phill\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\phill\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
